@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hi5</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_textView_title">Request Songs</string>
+    <string-array name="song_array">
+        <item>All the above</item>
+        <item>No Hands</item>
+    </string-array>
+</resources>
